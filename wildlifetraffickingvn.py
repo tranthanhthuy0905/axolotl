@@ -3,15 +3,15 @@ import numpy as np                        #to cleanse data
 from datetime import datetime             #to manipulate dates
 import plotly.express as px               #to create interactive charts
 import plotly.graph_objects as go         #to create interactive charts
-from jupyter_dash import JupyterDash      #to build Dash apps from Jupyter environments
 from dash import dcc        #to get components for interactive user interfaces
 from dash import html       #to compose the dash layout using Python structures
-import dash_bootstrap_components as dbc
+# import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output, State
 import datetime
 from dash import dash_table
 import json
 import calendar
+import dash
 
 app = dash.Dash(__name__)
 server = app.server
@@ -36,8 +36,6 @@ location_database = pd.read_csv('data_file.csv')
 # Build App
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
-app = JupyterDash(__name__, external_stylesheets=external_stylesheets)
-
 app.layout = html.Div([
     html.Div([
         html.H2(f"Hotline"),
@@ -48,4 +46,4 @@ app.layout = html.Div([
     
 ])
 
-app.run_server(mode='external', debug=True)
+app.run_server()
