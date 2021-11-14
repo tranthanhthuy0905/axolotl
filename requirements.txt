@@ -82,7 +82,7 @@ QtPy
 requests==2.26.0
 retrying==1.3.3
 Send2Trash  
-sip==4.19.13
+sip
 six  
 tenacity  
 terminado==0.9.4
