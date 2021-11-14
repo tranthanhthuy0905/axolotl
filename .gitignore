@@ -1,1 +1,4 @@
 geckodriver*
+*pyc
+.env
+.DS_Store
