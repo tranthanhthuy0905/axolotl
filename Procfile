@@ -1,1 +1,1 @@
-web: gunicorn plotly:server 
+web: gunicorn wildlifetraffickingvn:server 
