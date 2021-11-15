@@ -31,7 +31,7 @@ def display_map(location_database):
     fig.update_layout(height=int(800))
     return fig
 
-location_database = pd.read_csv('https://raw.githubusercontent.com/tranthanhthuy0905/data_file/main/data_file%20(1).csv', sep=",")
+location_database = pd.read_csv('https://raw.githubusercontent.com/tranthanhthuy0905/data_file/main/data_file.csv', sep=",")
 
 # Build App
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
