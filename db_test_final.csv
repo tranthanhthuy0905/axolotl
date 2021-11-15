@@ -1,0 +1,500 @@
+issue_num,occurrence_time,tinh_thanhphotrunguong,thanhpho_huyen,phuong_xa,sci_name,num_animal,object,volume,online_offline,category_broad
+2015,2015-06-25,Tỉnh Bà Rịa - Vũng Tàu,,,macaque,1,,,offline,Storing
+2015,2015-04-20,Tỉnh Bạc Liêu,,,Chelonia mydas,1,,,offline,Storing
+2015,2015-04-08,Tỉnh Bình Thuận,,,Chelonia mydas,1,,,,Consumpsion
+2015,2015-05-13,Tỉnh Bình Phước,,,Nomascus gabriellae,1,,,,Storing
+2015,2015-03-30,Thành phố Đà Nẵng,Quận Sơn Trà,,Pygathrix nemaeus,3,,,,Storing
+2015,2015-03-30,Thành phố Đà Nẵng,Quận Hải Châu,Phường Hòa Thuận Tây,Malayemys subtrijuga,20,,,,Trading
+2015,2015-08-01,Thành phố Đà Nẵng,Quận Hải Châu,Phường Hòa Thuận Tây,Others,,elephant ivory,4 tons,,Trading
+2015,2015-08-01,Thành phố Đà Nẵng,Quận Hải Châu,Phường Hòa Thuận Tây,pangolin,,scales,4 tons,,Trading
+2015,2015-08-01,Thành phố Đà Nẵng,Quận Hải Châu,Phường Hòa Thuận Tây,Others,,rhino horn,142 kg,,Trading
+1 / 2016,2016-03-27,Tỉnh Bà Rịa - Vũng Tàu,,,Ursus thibetanus,1,,,offline,Storing
+1 / 2016,2016-04-23,Tỉnh Bà Rịa - Vũng Tàu,,,Nomascus leucogenys siki,1,,,offline,Storing
+1 / 2016,2016-04-24,Tỉnh Bà Rịa - Vũng Tàu,,,Macaca fascicularis,1,,,offline,Storing
+1 / 2016,2016-01,Tỉnh Bắc Kạn,,,,,tiger bone,303 kg,offline,Consumpsion
+1 / 2016,2016-03-27,Tỉnh Bến Tre,,,Ursus thibetanus,2,,,offline,Storing
+1 / 2016,2016-02-06,Tỉnh Bình Phước,,,Pygathrix nigripes,4,,,offline,Hunting
+1 / 2016,2016-01-08,Tỉnh Đắk Nông,,,Hylobates gabriellae,1,,,offline,Storing
+1 / 2016,2016-01-28,Thành phố Hà Nội,,,Pygathrix nigripes,,dried black-shanked douc langur,20 individuals,offline,Trading
+1 / 2016,2016-01-11,Thành phố Hồ Chí Minh,,,Catopuma temminckii,2,,,offline,Trading
+1 / 2016,2016-01-11,Thành phố Hồ Chí Minh,,,Panthera pardus,1,,,offline,Trading
+1 / 2016,2016-01-11,Thành phố Hồ Chí Minh,,,,,pangolin,30 kg,offline,Trading
+1 / 2016,2016-03-14,Thành phố Hồ Chí Minh,,,,,elephant ivory,43.5 kg,offline,Trading
+1 / 2016,2016-03-18,Thành phố Hồ Chí Minh,,,,,rhino horn,1.2 kg,offline,Trading
+1 / 2016,2016-03-18,Thành phố Hồ Chí Minh,,,,,elephant ivory,7 bracelets,offline,Trading
+1 / 2016,2016-03-06,Tỉnh Lâm Đồng,,,Viverricula indica,6,,,offline,Trading
+1 / 2016,2016-03-06,Tỉnh Lâm Đồng,,,Bamboo rats,11,,,offline,Trading
+1 / 2016,2016-03-06,Tỉnh Lâm Đồng,,,Gallus gallus,1,,,offline,Trading
+1 / 2016,2016-03-09,Tỉnh Lâm Đồng,,,Nycticebus pygmaeus,8,,,offline,Storing
+1 / 2016,2016-03-12,Tỉnh Lâm Đồng,,,Viverricula indica,1,,,online,Storing
+1 / 2016,2016-03-06,Tỉnh Lạng Sơn,,,,,elephant ivory,11 kg,offline,Trading
+1 / 2016,2016-02-06,Tỉnh Lạng Sơn,,,,,elephant ivory,4.5 kg,offline,Trading
+2 / 2016,2016-01-18,Tỉnh Bà Rịa - Vũng Tàu,,,,,stuffed marine turtle,9 individuals,offline,Trading
+2 / 2016,2016-06-03,Tỉnh Bà Rịa - Vũng Tàu,,,Chelonia mydas,3,,,offline,Storing
+2 / 2016,2016-05-21,Tỉnh Bắc Giang,,,,,elephant ivory,553 kg,offline,Trading
+2 / 2016,2014-12,Tỉnh Bình Dương,,,Others,,,,online,Trading
+2 / 2016,2015-01-21,Tỉnh Bình Dương,,,Macaca leonine,1,,,online,Trading
+2 / 2016,2015-01-21,Tỉnh Bình Dương,,,Prionilurus bengalensis,1,,,online,Trading
+2 / 2016,2016-01-04,Tỉnh Bình Dương,,,Others,2,,,online,Trading
+2 / 2016,2016-05-28,Tỉnh Cao Bằng,,,,,pangolin,4 kg,offline,Trading
+2 / 2016,2016-04-26,Thành phố Đà Nẵng,,,Ursus thibetanus,1,,,offline,Trading
+2 / 2016,2016-07-12,Tỉnh Đắk Lắk,,,Nomascus gabriellae,1,,,offline,Storing
+2 / 2016,2016-08-27,Tỉnh Đồng Nai,,,,,stuffed crocodile,2 individuals,offline,Trading
+2 / 2016,2016-05-09,Tỉnh Đồng Nai,,,,,stuffed crocodile,20 individuals,offline,Trading
+2 / 2016,2016-05-24,Tỉnh Hà Nam,,,Turtle,72,,,offline,Trading
+2 / 2016,2016-01-28,Thành phố Hà Nội,,,,,pangolin,45 kg,offline,Trading
+2 / 2016,2016-01-29,Thành phố Hà Nội,,,,,elephant ivory,180 kg,offline,Trading
+2 / 2016,2016-04-01,Thành phố Hà Nội,,,,,elephant ivory,97kg,offline,Trading
+2 / 2016,2016-01-13,Thành phố Hà Nội,,,Nycticebus bengalensis,1,,,online,Advertising
+2 / 2016,2016-01-13,Thành phố Hà Nội,,,Geoemyda spengleri,4,,,online,Advertising
+2 / 2016,2016-07-08,Thành phố Hà Nội,,,,,elephant ivory,34kg,offline,Trading
+2 / 2016,2016-05-31,Tỉnh Hải Phòng,,,Nycticebus bengalensis,1,,,offline,Storing
+2 / 2016,2016-06-14,Tỉnh Hoà Bình,,,Cuora mouhotii,2,,,offline,Consumpsion
+2 / 2016,2016-06-14,Tỉnh Hoà Bình,,,Paradoxurus hermaphroditus,3,,,offline,Consumpsion
+2 / 2016,2016-08-04,Thành phố Hồ Chí Minh,,,,,turtles trophies,17 individuals,offline,Trading
+2 / 2016,2016-07-05,Thành phố Hồ Chí Minh,,,Chelonia mydas,2,,,offline,Storing
+2 / 2016,2015-12-26,Thành phố Hồ Chí Minh,,,Manis javanica,12,,,offline,Storing
+2 / 2016,2016-07-31,Thành phố Hồ Chí Minh,,,,,rhino horn,4 pieces,offline,Trading
+2 / 2016,2016-02-01,Tỉnh Hưng Yên,,,,,pangolin,311 kg,offline,Trading
+2 / 2016,2016-06-02,Tỉnh Kiên Giang,,,Eretmochelys imbricata,2,,,offline,Trading
+2 / 2016,2016-06-02,Tỉnh Kiên Giang,,,Chelonia mydas,2,,,offline,Trading
+2 / 2016,2016-05-18,Tỉnh Khánh Hòa,,,Eretmochelys imbricata,2,,,offline,Trading
+2 / 2016,2016-08-15,Tỉnh Kon Tum,Huyện Tu Mơ Rông,,Nomascus gabriellae,1,,,offline,Storing
+2 / 2016,2016-08-17,Tỉnh Kon Tum,Huyện Sa Thầy,,Manis javanica,2,,,offline,Trading
+2 / 2016,2016-05-06,Tỉnh Lâm Đồng,Thành phố Đà Lạt,,Nomascus gabriellae,1,,,offline,Storing
+2 / 2016,2016-03-16,Tỉnh Long An,,,Rallus striatus,2,,,offline,Trading
+2 / 2016,2016-03-22,Tỉnh Long An,,,Phython molurus,10,,,offline,Trading
+2 / 2016,2016-03-22,Tỉnh Long An,,,Rat Snakes,18,,,offline,Trading
+2 / 2016,2016-05-01,Tỉnh Nam Định,,,,,frozen tiger,4 individuals,offline,Trading
+2 / 2016,2016-01-28,Tỉnh Nghệ An,,,Manis javanica,14,,,offline,Trading
+2 / 2016,2016-05-10,Tỉnh Nghệ An,,,,,lion claw,680 individuals,offline,Trading
+2 / 2016,2016-05-16,Tỉnh Nghệ An,,,Platysternon megacephalum,10,,,offline,Trading
+2 / 2016,2016-05-16,Tỉnh Nghệ An,,,Manis pentadactyla,2,,,offline,Trading
+2 / 2016,2016-06-18,Tỉnh Ninh Bình,,,Manis javanica,22,,,offline,Trading
+2 / 2016,2015-12-30,Tỉnh Quảng Ninh,,,,,pangolin,18 individuals,offline,Storing
+2 / 2016,2016-03-25,Tỉnh Quảng Ninh,,,Manis janica,129,,,offline,Trading
+2 / 2016,2016-04-04,Tỉnh Quảng Ninh,,,,,lion bone,22 kg,offline,Trading
+2 / 2016,2016-04-23,Tỉnh Quảng Ninh,,,,,tiger bone,14 kg,offline,Trading
+2 / 2016,2016-05-13,Tỉnh Quảng Ninh,,,Chelonia mydas,1,,,offline,Trading
+2 / 2016,2016-06-08,Tỉnh Quảng Ninh,,,,,bear paw,58 kg,offline,Trading
+2 / 2016,2016-07-26,Tỉnh Quảng Ninh,,,Manis javanica,7,,,offline,Trading
+1 / 2017,2016-09-28,Tỉnh An Giang,,,Ursus thibetanus,1,,,offline,Storing
+1 / 2017,2015-12-18,Tỉnh Bà Rịa - Vũng Tàu,Huyện Xuyên Mộc,,leopart cat,3,,,offline,Storing
+1 / 2017,2015-12-18,Tỉnh Bà Rịa - Vũng Tàu,Huyện Xuyên Mộc,,ferret badger,,,,offline,Storing
+1 / 2017,2015-12-18,Tỉnh Bà Rịa - Vũng Tàu,Huyện Xuyên Mộc,,cobra,,,,offline,Storing
+1 / 2017,2015-12-18,Tỉnh Bà Rịa - Vũng Tàu,Huyện Xuyên Mộc,,junglefowl,,,,offline,Storing
+1 / 2017,2016-09-05,Tỉnh Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,,Python bivittatus,1,,,offline,Storing
+1 / 2017,2016-09-07,Tỉnh Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,,Macaca arctoides,1,,,offline,Storing
+1 / 2017,2016-09-07,Tỉnh Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,,Naja atra,2,,,offline,Storing
+1 / 2017,2016-09-07,Tỉnh Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,,bamboo rat,8,,,offline,Storing
+1 / 2017,2016-09-07,Tỉnh Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,,monitor lizard,2,,,offline,Storing
+1 / 2017,2016-09-07,Tỉnh Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,,Paradoxurus hermaphroditus,1,,,offline,Storing
+1 / 2017,2016-09-07,Tỉnh Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,,Atherurus macrourus,1,,,offline,Storing
+1 / 2017,2016-09-14,Tỉnh Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,,Eretmochelys imbricata,1,,,offline,Storing
+1 / 2017,2016-10-24,Tỉnh Bà Rịa - Vũng Tàu,Quận Tân Thành,,others,,,,offline,Storing
+1 / 2017,2016-11-14,Tỉnh Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,,Eretmochelys imbricata,5,,,offline,Storing
+1 / 2017,2016-11-14,Tỉnh Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,,Chelonia mydas,2,,,offline,Storing
+1 / 2017,2016-11-15,Tỉnh Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,,Macaca fascicularis,3,,,offline,Storing
+1 / 2017,2016-11-14,Tỉnh Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,,Eretmochelys imbricata,1,,,offline,Storing
+1 / 2017,2016-11-14,Tỉnh Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,,others,1,,,offline,Storing
+1 / 2017,2016-11-25,Tỉnh Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,,leopart cat,1,,,offline,Storing
+1 / 2017,2016-11-11,Tỉnh Bắc Kạn,Quận Chợ Đồn,,Viverricula indica,13,,,offline,Trading
+1 / 2017,2016-11-15,Tỉnh Bắc Ninh,,,,,rhino horn,4 kg,offline,Storing
+1 / 2017,2016-12-13,Tỉnh Bến Tre,,,Prionailurus bengalensis,2,,,offline,Advertising 
+1 / 2017,2016-11-23,Tỉnh Bình Thuận,,,Prionailurus bengalensis,2,,,offline,Storing
+1 / 2017,2016-10-11,Tỉnh Cao Bằng,,,Pygathrix cinerea,20,,,offline,Trading
+1 / 2017,2015-03-10,Thành phố Đà Nẵng,,,,,other body parts,3 kg,offline,Storing
+1 / 2017,2016-11-13,Thành phố Đà Nẵng,,,Chelonia mydas,1,,,offline,Storing
+1 / 2017,2016-09-21,Tỉnh Đắk Lắk,Thành phố Buôn Ma Thuột,,Helarctos malayanus,1,,,offline,Storing
+1 / 2017,2016-09-21,Tỉnh Đắk Lắk,Thành phố Buôn Ma Thuột,,Macaca assamensis,,,,offline,Storing
+1 / 2017,2016-09-21,Tỉnh Đắk Lắk,Thành phố Buôn Ma Thuột,,Macaca arctoides,,,,offline,Storing
+1 / 2017,2016-08-24,Tỉnh Đắk Nông,,,,,dried black-shanked douc langur,6 individuals,offline,Storing
+1 / 2017,2016-04-24,Tỉnh Đắk Nông,Quận Tuy Đức,,Macaca leonine,,dried pig-tailed macaque,4 individuals,offline,Trading
+1 / 2017,2016-10-28,Tỉnh Đắk Nông,,,Python bivittatus,1,,,offline,Trading
+1 / 2017,2016-10-27,Tỉnh Đồng Nai,,,owl,1,,,offline,Storing
+1 / 2017,2016-10-20,Tỉnh Hà Nam,Quận Duy Tiến,,Cuora flavomarginata,4,,,offline,Trading
+1 / 2017,2016-10-20,Tỉnh Hà Nam,Quận Duy Tiến,,Mauremys sinensis,2,,,offline,Trading
+1 / 2017,2016-10-20,Tỉnh Hà Nam,Quận Duy Tiến,,Cyclemys tcheponensis,7,,,offline,Trading
+1 / 2017,2016-10-20,Tỉnh Hà Nam,Quận Duy Tiến,,Cuora mouhotii,1,,,offline,Trading
+1 / 2017,2016-10-20,Tỉnh Hà Nam,Quận Duy Tiến,,Ophiophagus hannah,1,,,offline,Trading
+1 / 2017,2016-10-20,Tỉnh Hà Nam,Quận Duy Tiến,,Manis javanica,1,,,offline,Trading
+1 / 2017,2016-10-20,Tỉnh Hà Nam,Quận Duy Tiến,,Gekko gecko,3,,,offline,Trading
+1 / 2017,2016-12-19,Tỉnh Hà Nam,Quận Duy Tiến,,,,dead pangolin,10 individuals,offline,Trading
+1 / 2017,2016-06-18,Thành phố Hà Nội,,,,,elephant ivory,33.8 kg,offline,Trading
+1 / 2017,2016-09-15,Thành phố Hà Nội,,,,,rhino horn,4.76 kg,offline,Trading
+1 / 2017,2016-09-16,Thành phố Hà Nội,,,,,elephant ivory,95.5 kg,offline,Trading
+1 / 2017,2016-09-16,Thành phố Hà Nội,,Phường Thuỵ Khuê,Eudynamys scolopaceus,5,,,offline,Storing
+1 / 2017,2016-09-16,Thành phố Hà Nội,,Phường Thuỵ Khuê,Nycticorax nycticorax,19,,,offline,Storing
+1 / 2017,2016-09-15,Thành phố Hà Nội,Quận Thanh Xuân,,,,tiger bone,,offline,Storing
+1 / 2017,2016-09-15,Thành phố Hà Nội,Quận Thanh Xuân,,,,tiger meat,6 kg,offline,Storing
+1 / 2017,2016-09-22,Thành phố Hà Nội,Quận Hoàn Kiếm,,Haliaeetus leucogaster,1,,,offline,Storing
+1 / 2017,2016-09-22,Thành phố Hà Nội,,,Ursus thibetanus,1,,,offline,Storing
+1 / 2017,2016-09-26,Thành phố Hà Nội,,,,,elephant ivory,12.5 kg,offline,Storing
+1 / 2017,2016-09-30,Thành phố Hà Nội,,,,,elephant ivory,400 kg,offline,Trading
+1 / 2017,2016-10-01,Thành phố Hà Nội,,,,,elephant ivory,309 kg,offline,Trading
+1 / 2017,2016-10-14,Thành phố Hà Nội,,,Cuora galbinifrons,3,,,offline,Trading
+1 / 2017,2016-10-15,Thành phố Hà Nội,,,turtle,4,,,offline,Trading
+1 / 2017,2016-11-07,Thành phố Hà Nội,,,Ursus thibetanus,1,,,offline,Consumpsion
+1 / 2017,2016-11-11,Thành phố Hà Nội,,,,,elephant ivory,195 kg,offline,Storing
+1 / 2017,2016-11-22,Thành phố Hà Nội,,,Cuora galbinifrons,1,,,offline,Trading
+1 / 2017,2016-11-22,Thành phố Hà Nội,,,Macrochelys temminckii,2,,,offline,Trading
+1 / 2017,2016-12-02,Thành phố Hà Nội,,,,,dried douc langur,20 individuals,offline,Trading
+1 / 2017,2016-12-05,Thành phố Hà Nội,Quận Hai Bà Trưng,,Pelochelys cantorii,1,,,online,Advertising 
+1 / 2017,2016-12-06,Thành phố Hà Nội,Quận Thanh Xuân,,Ophiophagus hannah,2,,,offline,Storing
+1 / 2017,2016-12-06,Thành phố Hà Nội,Quận Thanh Xuân,,Prionailurus bengalensis,2,,,offline,Storing
+1 / 2017,2016-06-22,Thành phố Hà Nội,,,Cuora galbinifrons,2,,,offline,Storing
+1 / 2017,2016-06-22,Thành phố Hà Nội,,,Indotestudo elongata,1,,,offline,Storing
+1 / 2017,2016-11-08,Tỉnh Hà Tĩnh,,,Cyclemys tcheponensis,55,,,offline,Storing
+1 / 2017,2016-12-23,Tỉnh Hà Tĩnh,Huyện Hương Sơn,,,,frozen tiger,1 individual,offline,Storing
+1 / 2017,2016-12-28,Tỉnh Hà Tĩnh,,,civet,6,meat,2 kg,offline,Storing
+1 / 2017,2016-12-28,Tỉnh Hà Tĩnh,,,monitor lizard,4,,,offline,Storing
+1 / 2017,2016-12-28,Tỉnh Hà Tĩnh,,,python,1,,,offline,Storing
+1 / 2017,2016-12-28,Tỉnh Hà Tĩnh,,,macaque,7,,,offline,Storing
+1 / 2017,2016-12-28,Tỉnh Hà Tĩnh,,,Sus scrofa,2,,,offline,Storing
+1 / 2017,2016-12-28,Tỉnh Hà Tĩnh,,,Atherurus macrourus,4,,,offline,Storing
+1 / 2017,2016-11-16,Tỉnh Hải Dương,,,Manis javanica,31,,,offline,Storing
+1 / 2017,2016-12-07,Tỉnh Hải Dương,,,Ursus thibetanus,1,,,offline,Storing
+1 / 2017,2015-01-15,Thành phố Hồ Chí Minh,,,Catopuma temminckii,2,bear paw,8 pieces,offline,Storing
+1 / 2017,2015-01-15,Thành phố Hồ Chí Minh,,,Panthera pardus,1,,,offline,Storing
+1 / 2017,2015-01-15,Thành phố Hồ Chí Minh,,,pangolin,30,,,offline,Storing
+1 / 2017,2016-06-06,Thành phố Hồ Chí Minh,,,Eretmochelys imbricata,2,,,offline,Consumpsion
+1 / 2017,2016-06-15,Thành phố Hồ Chí Minh,,,,,elephant ivory,15 kg,offline,Trading
+1 / 2017,2016-09-24,Thành phố Hồ Chí Minh,,,,,dried python skin,321 kg,offline,Trading
+1 / 2017,2016-09-27,Thành phố Hồ Chí Minh,,,Astrochelys radiata,32,,,offline,Storing
+1 / 2017,2016-09-27,Thành phố Hồ Chí Minh,,,civet,,,,offline,Storing
+1 / 2017,2016-09-27,Thành phố Hồ Chí Minh,,,monitor lizard,,,,offline,Consumpsion
+1 / 2017,2016-09-27,Thành phố Hồ Chí Minh,,,water dragon,,,,offline,Consumpsion
+1 / 2017,2016-09-27,Thành phố Hồ Chí Minh,,,others,,,,offline,Consumpsion
+1 / 2017,2016-10-10,Thành phố Hồ Chí Minh,,,turtle,23,,,offline,Trading
+1 / 2017,2016-10-10,Thành phố Hồ Chí Minh,,,sparrow,108,,,offline,Trading
+1 / 2017,2016-11-10,Thành phố Hồ Chí Minh,,,Pygathrix nigripes,1,,,online,Advertising 
+1 / 2017,2016-11-18,Thành phố Hồ Chí Minh,,,,,rhino horn,3.65 kg,offline,Trading
+1 / 2017,2016-12-20,Thành phố Hồ Chí Minh,,,owl ,1,,,offline,Trading
+1 / 2017,2016-12-20,Thành phố Hồ Chí Minh,,,South American parrots,2,,,offline,Trading
+1 / 2017,2016-12-20,Thành phố Hồ Chí Minh,,,Macaca mulatta,6,,,offline,Trading
+1 / 2017,2016-12-27,Thành phố Hồ Chí Minh,,,Python molurus,1,,,offline,Trading
+1 / 2017,2016-10-06,Thành phố Hồ Chí Minh,,Cảng Cát Lái,,,elephant ivory,2 tonnes,offline,Trading
+1 / 2017,2016-10-16,Thành phố Hồ Chí Minh,,Cảng Cát Lái,,,elephant ivory,594 kg,offline,Trading
+1 / 2017,2016-10-16,Thành phố Hồ Chí Minh,,Cảng Cát Lái,,,scales,227 kg,offline,Trading
+1 / 2017,2016-10-26,Thành phố Hồ Chí Minh,,Cảng Cát Lái,,,elephant ivory,1 tonne,offline,Trading
+1 / 2017,2016-11-01,Thành phố Hồ Chí Minh,,Cảng Cát Lái,,,elephant ivory,487 kg,offline,Trading
+1 / 2017,2016-11-24,Thành phố Hồ Chí Minh,,Cảng Cát Lái,,,elephant ivory,619 kg,offline,Trading
+1 / 2017,2016-11-28,Thành phố Hồ Chí Minh,,Cảng Cát Lái,,,elephant ivory,537 kg,offline,Trading
+1 / 2017,2016,Thành phố Hồ Chí Minh,,Cảng Cát Lái,,,elephant ivory,529 kg,offline,Trading
+1 / 2017,2016-12-11,Tỉnh Hoà Bình,,,,,rhino horn,,offline,Trading
+1 / 2017,2016-11-22,Tỉnh Khánh Hòa,,,Muntiacus muntjak,1,,,offline,Trading
+1 / 2017,2016-11-22,Tỉnh Khánh Hòa,,,snake,,,,offline,Trading
+1 / 2017,2016-11-22,Tỉnh Khánh Hòa,,,water dragon,,,,offline,Trading
+1 / 2017,2016-11-22,Tỉnh Khánh Hòa,,,turtle,,,,offline,Trading
+1 / 2017,2016-11-22,Tỉnh Khánh Hòa,,,monitor lizard,,,,offline,Trading
+1 / 2017,2016-11-22,Tỉnh Khánh Hòa,,,python,,,,offline,Trading
+1 / 2017,2016-11-25,Tỉnh Khánh Hòa,Thành phố Nha Trang,,Eretmochelys imbricata,1,,,online,Advertising 
+1 / 2017,2016-11-25,Tỉnh Kiên Giang,,,Cuora amboinensis,12,,,offlilne,Trading
+1 / 2017,2016-11-25,Tỉnh Kiên Giang,,,Batagur borneoensis,1,,,offlilne,Trading
+1 / 2017,2016-11-25,Tỉnh Kiên Giang,,,Heosemys grandis,3,,,offlilne,Trading
+1 / 2017,2016-11-25,Tỉnh Kiên Giang,,,Cyclemys pulchristiata,2,,,offlilne,Trading
+1 / 2017,2016-11-25,Tỉnh Kiên Giang,,,Heosemys annandalii,1,,,offlilne,Trading
+1 / 2017,2016-11-09,Tỉnh Kon Tum,,,Nomascus annemensis,1,,,offline,Storing
+1 / 2017,2016-11-23,Tỉnh Kon Tum,,,,,frozen bear,1 individual,offline,Storing
+1 / 2017,2016-11-23,Tỉnh Kon Tum,,,,,frozen douc langur,1 individual,offline,Storing
+1 / 2017,2016-11-29,Tỉnh Kon Tum,,,Amyda cartilaginea,5,,,offline,Storing
+1 / 2017,2016-11-29,Tỉnh Kon Tum,,,Varanus salvator,7,,,offline,Storing
+1 / 2017,2016-11-29,Tỉnh Kon Tum,,,Viverricula indica,2,,,offline,Storing
+1 / 2017,2016-09-07,Tỉnh Lâm Đồng,,,Macaca leonina,21,,,offline,Trading
+1 / 2017,2016-10-16,Tỉnh Lạng Sơn,,,,,elephant ivory,199 kg,offline,Storing
+1 / 2017,2016-08-15,Tỉnh Lào Cai,,,,,elephant ivory,103 kg,offline,Trading
+1 / 2017,2016-05-16,Tỉnh Nghệ An,,,Platysternon megacephalum,10,,,offline,Storing
+1 / 2017,2016-05-16,Tỉnh Nghệ An,,,Manis pentadactyla,2,,,offline,Storing
+1 / 2017,2016-09-30,Tỉnh Nghệ An,Huyện Điện Châu,,macaque,8,,,offline,Trading
+1 / 2017,2016-10-04,Tỉnh Nghệ An,,,Pygathrix nemaeus,1,,,offline,Storing
+1 / 2017,2016-10-05,Tỉnh Nghệ An,,,Nomascus leucogenys,1,,,offline,Storing
+1 / 2017,2016-10-13,Tỉnh Nghệ An,Huyện Nghi Lộc,,Cuora mouhotii,13,,,offline,Trading
+1 / 2017,2016-10-13,Tỉnh Nghệ An,Huyện Nghi Lộc,,Cuora galbinifrons,3,,,offline,Trading
+1 / 2017,2016-10-13,Tỉnh Nghệ An,Huyện Nghi Lộc,,Cuora bourreti,2,,,offline,Trading
+1 / 2017,2016-10-19,Tỉnh Nghệ An,,,Manis javanica,1,,,offline,Trading
+1 / 2017,2016-10-27,Tỉnh Nghệ An,,,tiger ,2,frozen tiger,1 individual,offline,Storing
+1 / 2017,2016-10-27,Tỉnh Nghệ An,,,,,tiger head,1,offline,Storing
+1 / 2017,2016-11-23,Tỉnh Ninh Bình,,,pangolin,7,,,offline,Storing
+1 / 2017,2016-12-11,Tỉnh Ninh Bình,Huyện Yên Mô,,Manis javanica,70,,,offline,Storing
+1 / 2017,2016-12-11,Tỉnh Quảng Bình,,,Atherurus macrourus,9,,,offline,Trading
+1 / 2017,2016-09-04,Tỉnh Quảng Nam,,,,,elephant ivory,112 kg,offline,Trading
+1 / 2017,2016-10-12,Tỉnh Quảng Ninh,,,,,rhino horn,,offline,Trading
+1 / 2017,2016-11-27,Tỉnh Quảng Ninh,,,,,rhino horn,1 kg,offline,Trading
+1 / 2017,2016-11-05,Tỉnh Quảng Ninh,,,Platysternon megacephalum,105,,,offline,Trading
+1 / 2017,2016-11-05,Tỉnh Quảng Ninh,,,Manis javanica,149,,,offline,Trading
+1 / 2017,2016-10-21,Tỉnh Tây Ninh,,,Heosemys grandis,66,,,offline,Storing
+1 / 2017,2016-10-21,Tỉnh Tây Ninh,,,Indotestudo elongata,,,,offline,Storing
+1 / 2017,2016-10-21,Tỉnh Tây Ninh,,,Cyclemys pulchristiata,,,,offline,Storing
+1 / 2017,2016-10-04,Tỉnh Thái Bình,,,Manis javanica,61,,,offline,Trading
+1 / 2017,2016-10-04,Tỉnh Thái Bình,,,,37,,,offline,Trading
+1 / 2017,2016-11-25,Tỉnh Thái Nguyên,,,Panthera tigris corbetti,1,,,offline,Consumpsion
+1 / 2017,2016-09-08,Tỉnh Thanh Hoá,,,Manis javanica,3,,,offline,Trading
+1 / 2017,2016-10-02,Tỉnh Thanh Hoá,,,Trachypithecus hatinhensis,4,,,offline,Trading
+1 / 2017,2016-12-05,Tỉnh Thanh Hoá,,,Nycticebus pygmaeus,1,,,online,Advertising 
+1 / 2017,2016-12-26,Tỉnh Thanh Hoá,,,clouded leopard,1,,,offline,Storing
+1 / 2017,2016-12-26,Tỉnh Thanh Hoá,,,binturong,4,tiger skin,1,offline,Storing
+1 / 2017,2016-12-26,Tỉnh Thanh Hoá,,,golden cat,1,,,offline,Storing
+1 / 2017,2016-12-26,Tỉnh Thanh Hoá,,,masked civet,62,,,offline,Storing
+1 / 2017,2016-12-26,Tỉnh Thanh Hoá,,,macaque,1,,,offline,Storing
+1 / 2017,2016-12-26,Tỉnh Thanh Hoá,,,wild pig,2,,,offline,Storing
+1 / 2017,2016-12-26,Tỉnh Thanh Hoá,,,muntjac,5,,,offline,Storing
+1 / 2017,2016-12-26,Tỉnh Thừa Thiên Huế,,,,,,,,
+1 / 2019,2018-12-16,Tỉnh Bắc Giang,Huyện Lục Ngạn,,Ptyas korros,1,,,offline,Trading
+1 / 2019,2018-12-16,Tỉnh Bắc Giang,Huyện Lục Ngạn,,Naja atra,2,,,offline,Trading
+1 / 2019,2018-12-16,Tỉnh Bắc Giang,Huyện Lục Ngạn,,Gallus gallus,1,,,offline,Trading
+1 / 2019,2018-12-16,Tỉnh Bắc Giang,Huyện Lục Ngạn,,Herpestes javanicus auropunctatus,2,,,offline,Trading
+1 / 2019,2018-12-6,Tỉnh Bến Tre,Huyện Mỏ Cày Nam,,Eretmochelys imbricata,1,,,offline,Storing
+1 / 2019,2018-12-24,Tỉnh Bến Tre,Huyện La Gi,,Macaca arctoides,1,,,offline,Storing
+1 / 2019,2018-12-20,Thành phố Hải Phòng,,,elephant,0,tail hairs,3 kg,offline,Trading
+1 / 2019,2018-12-20,Thành phố Hải Phòng,,,pangolin,0,scales,500 kg,offline,Trading
+1 / 2019,2018-12-20,Thành phố Hải Phòng,,,lion,0,teeth and claws,,offline,Trading
+1 / 2019,2018-12-23,Tỉnh Kiên Giang,,,marine turtle,2,,,offline,Storing
+1 / 2019,2018-12-12,Thành phố Hà Nội,Quận Hoàng Mai,,Prionailurus bengalensis,6,,,offline,Trading
+1 / 2019,2018-12-13,Thành phố Hà Nội,,,Pardofelis marmorata,1,,,offline,Trading
+1 / 2019,2018-12-13,Thành phố Hà Nội,,,Nomascus gabriellae,1,,,offline,Trading
+1 / 2019,2018-12-13,Thành phố Hà Nội,,,Polyplectron bicalcaratum,66,,,offline,Trading
+1 / 2019,2018-12-15,Tỉnh Đắc Lắk,,,civet,2,,,offline,Consumpsion
+1 / 2019,2018-12-15,Tỉnh Đắc Lắk,,,Naja atra,4,,,offline,Consumpsion
+1 / 2019,2018-12-15,Tỉnh Đắc Lắk,,,Indotestudo elongata,1,,,offline,Consumpsion
+1 / 2019,2018-12-15,Tỉnh Đắc Lắk,,,Cuora amboinensis,1,,,offline,Consumpsion
+1 / 2019,2018-12-15,Tỉnh Đắc Lắk,,,bamboo rat,26,,,offline,Consumpsion
+1 / 2019,2018-12-15,Tỉnh Đắc Lắk,,,Melogale personata,9,,,offline,Consumpsion
+1 / 2019,2018-12-15,Tỉnh Đắc Lắk,,,Paradoxurus hermaphroditus,1,,,offline,Consumpsion
+1 / 2019,2018-12-15,Tỉnh Đắc Lắk,,,Bungarus fasciatus,1,,,offline,Consumpsion
+1 / 2019,2018-12-15,Tỉnh Đắc Lắk,,,Malayemys subtrijuga,1,,,offline,Consumpsion
+1 / 2019,2018-12-15,Tỉnh Đắc Lắk,,,Ptyas mucosus,4,,,offline,Consumpsion
+1 / 2019,2018-12-15,Tỉnh Đắc Lắk,,,Others,3,,,offline,Consumpsion
+1 / 2019,2018-12-14,Tỉnh Hà Tĩnh,,,Manis javanica,4,,,offline,Storing
+1 / 2019,2018-12-14,Tỉnh Hà Tĩnh,Huyện Thạch Hà,,Chelonia mydas,1,,,offline,Storing
+1 / 2019,2018-12-16,Tỉnh Hà Tĩnh,Huyện Thạch Hà,,Chelonia mydas,1,,,offline,Storing
+1 / 2019,2018-12-26,Tỉnh Lâm Đồng,,,Prionailurus bengalensis,1,,,offline,Storing
+1 / 2019,2018-12-19,Tỉnh Nam Định,Huyện  Vụ Bản ,,Macaca leonina,2,,,offline,Consumpsion
+1 / 2019,2018-12-6,Tỉnh Ninh Bình,Huyện Hoa Lư,,Macaca fascicularis,1,,,offline,Advertising 
+1 / 2019,2018-12-14,Tỉnh Ninh Bình,,,Manis javanica,41,,,offline,Storing
+1 / 2019,2018-12-26,Tỉnh Quảng Trị,Huyện Hướng Hóa,Thị trấn Lao Bảo,civet,4,,,offline,Hunting
+1 / 2019,2018-12-26,Tỉnh Quảng Trị,Huyện Hướng Hóa,Thị trấn Lao Bảo,porcupine,1,,,offline,Hunting
+1 / 2019,2018-12-26,Tỉnh Quảng Trị,Huyện Hướng Hóa,Thị trấn Lao Bảo,Ptyas korros,2,,,offline,Hunting
+1 / 2019,2018-12-07,Tỉnh Quảng Ngãi,,,Pygathrix cinerea,1,,,offline,Storing
+1 / 2019,2018-12-10,Tỉnh Tây Ninh,,,Helarctos malayanus,1,,,offline,Storing
+1 / 2019,2018-12-24,Tỉnh Tây Ninh,,,Pthon reticulatus,1,,,offline,Advertising 
+1 / 2019,2018-12-3,Tỉnh Thái Bình,,,Chelonia mydas,1,,,offline,Trading
+2 / 2019,2019-06-04,Tỉnh Bắc Ninh,,Thị xã Từ Sơn,Others,0,elephant ivory,0.76 kg,offline,Trading
+2 / 2019,2019-04-23,Tỉnh Bắc Ninh,,Thị xã Từ Sơn,tiger cub,2,,,offline,Trading
+2 / 2019,2019-04-23,Tỉnh Bắc Ninh,,Thị xã Từ Sơn,bear,22,bear paw,,offline,Trading
+2 / 2019,2019-06-06,Tỉnh Bắc Kạn,Huyện Chợ Đồn,,Ptyas korros,0,,13.8 kg,offline,Trading
+2 / 2019,2019-06-06,Tỉnh Bắc Kạn,Huyện Chợ Đồn,,Naja atra,3,,,offline,Trading
+2 / 2019,2019-06-06,Tỉnh Bắc Kạn,Huyện Chợ Đồn,,Leiolepis belliana,1,,,offline,Trading
+2 / 2019,2019-02-28,Tỉnh Bình Dương,Thành phố Thuận An,Huyện An Phú,Others,0,elephant ivory,0.4 kg,online,Trading
+2 / 2019,2019-05-30,Tỉnh Bình Dương,,,Panthera tigris,54,other body parts,,online,Trading
+2 / 2019,2019-06-13,Tỉnh Bình Dương,Thành phố Thuận An,,bear,2,bear paw,,online,Advertising 
+2 / 2019,2019-06-13,Tỉnh Bình Dương,Thành phố Thuận An,,tiger,33,other body parts,,online,Advertising 
+2 / 2019,2019-01-13,Tỉnh Cao Bằng,Huyện Trùng Khánh,,Others,,elephant ivory,51 kg,offline,Trading
+2 / 2019,2019-03-26,Thành phố Đà Nẵng,Quận Sơn Trà,Phường Thọ Quang,Others,0,elephant ivory,9 tons,offline,Trading
+2 / 2019,2019-03-22,Thành phố Đà Nẵng,Quận Cẩm Lệ,,Physignathus Cocincinus,1,,,offline,Advertising 
+2 / 2019,2019-03-22,Thành phố Đà Nẵng,Quận Cẩm Lệ,,Centrochelys sulcata,2,,,offline,Advertising 
+2 / 2019,2019-06-19,Thành phố Đà Nẵng,Quận Cẩm Lệ,,Cuora bourreti,21,,,offline,Trading
+2 / 2019,2019-06-19,Thành phố Đà Nẵng,Quận Cẩm Lệ,,Malayan snail-eating turtle,1,,,offline,Trading
+2 / 2019,2019-06-19,Thành phố Đà Nẵng,Quận Cẩm Lệ,,impressed tortoise,1,,,offline,Trading
+2 / 2019,2019-06-19,Thành phố Đà Nẵng,Quận Cẩm Lệ,,Asian stripe-necked leaf turtule,1,,,offline,Trading
+2 / 2019,2019-01-14,Tỉnh Đắc Lắk,,,Ptyas korros,,,17 kg,offline,Trading
+2 / 2019,2019-03-04,Tỉnh Đồng Nai,,,gibbon ,2,,,offline,Consumpsion
+2 / 2019,2019-03-04,Tỉnh Đồng Nai,,,langur ,2,,,offline,Consumpsion
+2 / 2019,2019-03-04,Tỉnh Đồng Nai,,,Prionailurus bengalensis,3,,,offline,Consumpsion
+2 / 2019,2019-03-04,Tỉnh Đồng Nai,,,Neofelis nebulosa,1,,,offline,Consumpsion
+2 / 2019,2019-03-04,Tỉnh Đồng Nai,,,Macaca fascicularis,4,,,offline,Consumpsion
+2 / 2019,2019-03-04,Tỉnh Đồng Nai,,,flying squirrel,2,,,offline,Consumpsion
+2 / 2019,2019-03-04,Tỉnh Đồng Nai,,,squirrel,1,,,offline,Consumpsion
+2 / 2019,2019-01-07,Tỉnh Gia Lai,,,Paradoxurus hermaphroditus,1,,,offline,Storing
+2 / 2019,2019-01-07,Tỉnh Gia Lai,,,porcupine,1,,,offline,Storing
+2 / 2019,2019-01-07,Tỉnh Gia Lai,,,Indotestudo elongata,10,,,offline,Storing
+2 / 2019,2019-01-07,Tỉnh Gia Lai,,,Cyclemys pulchristriata,2,,,offline,Storing
+2 / 2019,2019-01-07,Tỉnh Gia Lai,,,wild pig,,meat,40 kg,offline,Consumpsion
+2 / 2019,2019-03-05,Thành phố Hà Nội,Quận Hai Bà Trưng,,bear cub,1,,,online,Advertising 
+2 / 2019,2019-03-20,Thành phố Hà Nội,Huyện Thường Tín,,Others,,elephant ivory,50 kg,offline,Trading
+2 / 2019,2019-01-08,Thành phố Hà Nội,Quận Nam Từ Liêm,,tiger cub,55,,,offline,Trading
+2 / 2019,2019-04-07,Thành phố Hà Nội,,,Others,,elephant ivory,15 kg ,offline,Storing
+2 / 2019,2019-04-12,Thành phố Hà Nội,Huyện Sóc Sơn,Xã Phú Minh,Others,,rhino horn,14.6 kg,offline,Trading
+2 / 2019,2019-06-06,Thành phố Hà Nội,Quận Nam Từ Liêm,,Others,,elephant ivory,4.44 kg,online,Trading
+2 / 2019,2019-06-27,Thành phố Hà Nội,Quận Hai Bà Trưng,,Others,,elephant ivory,207 kg,offline,Storing
+2 / 2019,2019-01-16,Tỉnh Hà Tĩnh,Huyện Hương Sơn,,Manis Javanica,215,,,offline,Hunting
+2 / 2019,2019-04-21,Tỉnh Hà Tĩnh,Huyện Hương Sơn,Xã Sơn Kim 1,Manis Javanica,1,,,offline,Hunting
+2 / 2019,2019-04-21,Tỉnh Hà Tĩnh,Huyện Hương Sơn,Xã Sơn Kim 2,Cuora galbinifrons,7,,,offline,Hunting
+2 / 2019,2019-04-21,Tỉnh Hà Tĩnh,Huyện Hương Sơn,Xã Sơn Kim 3,Cuora mouhotii,5,,,offline,Hunting
+2 / 2019,2019-04-21,Tỉnh Hà Tĩnh,Huyện Hương Sơn,Xã Sơn Kim 4,Platysternon megacephalnum,4,,,offline,Hunting
+2 / 2019,2019-04-21,Tỉnh Hà Tĩnh,Huyện Hương Sơn,Xã Sơn Kim 5,Amyda cartilaginea,11,,,offline,Hunting
+2 / 2019,2019-09-01,Thành phố Hải Phòng,,,Ursus thibetanus,2,,,online,Trading
+2 / 2019,2019-01-22,Thành phố Hải Phòng,,,Others,,elephant ivory,515 kg,offline,Trading
+2 / 2019,2019-01-22,Thành phố Hải Phòng,,,pangolin,,scales,1641 kg,offline,Trading
+2 / 2019,2019-03-25,Thành phố Hải Phòng,,,pangolin,,scales,1339 kg,offline,Trading
+2 / 2019,2019-03-25,Thành phố Hải Phòng,,,Others,,elephant ivory,109 kg,offline,Trading
+2 / 2019,2019-03-25,Thành phố Hải Phòng,,,pangolin,,scales,8 tons,offline,Trading
+2 / 2019,2019-04-16,Thành phố Hải Phòng,,,pangolin,39,,,offline,Trading
+2 / 2019,2019-04-19,Thành phố Hải Phòng,,,Others,,elephant ivory,3446 kg,offline,Trading
+2 / 2019,2019-04-19,Thành phố Hải Phòng,,,pangolin,,scales,3977 kg,offline,Trading
+2 / 2019,2019-06-20,Thành phố Hải Phòng,,,Ceratotherium simum,2,rhino horn,6.9 kg,offline,Trading
+2 / 2019,2019-07-05,Thành phố Hải Phòng,,,Amblonyx cinerea,14,,,offline,Trading
+2 / 2019,2019-07-05,Thành phố Hải Phòng,,,Prionailurus bengalensis,1,,,offline,Trading
+2 / 2019,2019-07-05,Thành phố Hải Phòng,,,Rhyticeros undulatus,9,,,offline,Trading
+2 / 2019,2019-07-05,Thành phố Hải Phòng,,,Buceros bicornis,8,,,offline,Trading
+2 / 2019,2019-07-05,Thành phố Hải Phòng,,,Psittacula spp.,4,,,offline,Trading
+2 / 2019,2019-07-05,Thành phố Hải Phòng,,,Plegadis falcinellus,10,,,offline,Trading
+2 / 2019,2019-04-10,Thành phố Hồ Chí Minh,Quận 5,,Hieremys annandalii,1,,,offline,Storing
+2 / 2019,2019-04-23,Thành phố Hồ Chí Minh,Quận Tân Bình,Phường 2,Loxodonta Africana,,elephant ivory,10 kg,offline,Storing
+2 / 2019,2019-04-17,Tỉnh Hoà Bình,Huyện Lạc Thủy,,Cuora mouhotii,29,,,offline,Trading
+2 / 2019,2019-05-18,Tỉnh Kiên Giang,,,Others ,,elephant ivory,0.4 kg,online,Trading
+2 / 2019,2019-05-18,Tỉnh Kiên Giang,,,wild pig,227,teeth and claws,,online,Trading
+2 / 2019,2019-01-30,Tỉnh Lai Châu,,,bear,,bear paw,2,online,Trading
+2 / 2019,2018-06-26,Tỉnh Lâm Đồng,Thành phố Đà Lạt,,Manis Javanica,1,,,offline,Storing
+2 / 2019,2018-06-26,Tỉnh Lâm Đồng,Thành phố Đà Lạt,,Varanus salvator,1,,,offline,Storing
+2 / 2019,2018-06-26,Tỉnh Lâm Đồng,Thành phố Đà Lạt,,Viverricula indica,1,,,offline,Storing
+2 / 2019,2018-06-26,Tỉnh Lâm Đồng,Thành phố Đà Lạt,,porcupine,1,,,offline,Storing
+2 / 2019,2019-01-29,Tỉnh Lạng Sơn,Huyện Hữu Lũng,,tiger,2,,,offline,Advertising 
+2 / 2019,2019-01-19,Tỉnh Nghệ An,,,Trachypithecus laotum,2,,,offline,Trading
+2 / 2019,2019-01-19,Tỉnh Nghệ An,,,Macaca leonia,12,dried pig-tailed macaque,,offline,Trading
+2 / 2019,2019-01-19,Tỉnh Nghệ An,,,Macaca mulatta,1,,,offline,Trading
+2 / 2019,2019-03-21,Tỉnh Nghệ An,,,tiger cub,2,,,online,Trading
+2 / 2019,2019-01-11,Tỉnh Nghệ An,,,Trachypithecus crespusculus,2,,,offline,Consumpsion
+2 / 2019,2019-01-11,Tỉnh Nghệ An,,,wild pig,2,,,offline,Consumpsion
+2 / 2019,2019-03-27,Tỉnh Nghệ An,Huyện Kỳ Sơn,,Catopuma temminckii,1,,,offline,Storing
+2 / 2019,2019-03-27,Tỉnh Nghệ An,Huyện Kỳ Sơn,,civet,5,,,offline,Storing
+2 / 2019,2019-05-30,Tỉnh Nghệ An,,,Selenarctos thibetanus,3,,,offline,Storing
+2 / 2019,2019-07-02,Tỉnh Nghệ An,,,pagolin,7,,,offline,Storing
+2 / 2019,2019-05-21,Tỉnh Quảng Bình,,,Ptyas korros,,,3.5 kg,offline,Storing
+2 / 2019,2019-05-21,Tỉnh Quảng Bình,,,Elaphe radiata,,,2.5kg,offline,Storing
+2 / 2019,2019-05-21,Tỉnh Quảng Bình,,,orchid,,,142 kg,offline,Storing
+2 / 2019,2019-05-29,Tỉnh Quảng Bình,,,Pygathrix nemaeous,1,,,offline,Advertising 
+2 / 2019,2019-07-09,Tỉnh Quảng Nam,Huyện Nam Giang,,Manix pentadactyla,2,,,offline,Storing
+2 / 2019,2019-05-10,Tỉnh Quảng Ninh,,,tiger,1,tiger skin,,offline,Trading
+2 / 2019,2019-05-10,Tỉnh Quảng Ninh,,,Asiatic black bear,1,bear bone,,offline,Trading
+2 / 2019,2019-05-31,Tỉnh Quảng Ninh,,,Manis Javanica,13,,,offline,Storing
+2 / 2019,2019-05-31,Tỉnh Quảng Ninh,,,Cuora galbinifrons,61,,,offline,Storing
+2 / 2019,2019-05-31,Tỉnh Quảng Ninh,,,Platysternon megacephalnum,61,,,offline,Storing
+2 / 2019,2019-05-11,Tỉnh Quảng Trị,Huyện Hướng Hóa,,Paradoxurus hermaphroditus,14,,,offline,Storing
+2 / 2019,2019-05-11,Tỉnh Quảng Trị,Huyện Hướng Hóa,,Varanus salvator,2,,,offline,Storing
+2 / 2019,2019-05-14,Tỉnh Thái Nguyên,,,tiger,3,,,offline,Consumpsion
+2 / 2019,2019-05-14,Tỉnh Thái Nguyên,,,Asian golden cat,1,,,offline,Consumpsion
+2 / 2019,2019-05-14,Tỉnh Thái Nguyên,,,bear,2,,,offline,Consumpsion
+2 / 2019,2019-05-14,Tỉnh Thái Nguyên,,,macaque,3,,,offline,Consumpsion
+2 / 2019,2019-05-14,Tỉnh Thái Nguyên,,,turtle,10,,,offline,Consumpsion
+2 / 2019,2019-06-05,Tỉnh Thanh Hóa,Huyện Quan Sơn,,Platysternon megacephalnum,7,,,offline,Storing
+2 / 2019,2019-06-05,Tỉnh Thanh Hóa,Huyện Quan Sơn,,Cuora galbinifrons,1,,,offline,Storing
+2 / 2019,2019-06-05,Tỉnh Thanh Hóa,Huyện Quan Sơn,,Paguma larvata,1,,,offline,Storing
+2 / 2019,2019-06-05,Tỉnh Thanh Hóa,Huyện Quan Sơn,,pangolin,,scales,0.7 kg,offline,Storing
+2 / 2019,2019-01-30,Tỉnh Vĩnh Long,,,Macaca arctoides,1,,,offline,Storing
+2 / 2019,2019-01-08,Tỉnh Vĩnh Phúc,,,Others,,elephant ivory,10 kg,online,Trading
+2 / 2019,2019-01-14,Thành phố Hà Nội,Huyện Thường Tín,,Others,,elephant ivory,92 kg,offline,Storing
+2 / 2019,2018-02-01,Thành phố Hà Nội,Huyện Thường Tín,,Others,,elephant ivory,971 kg,offline,Consumpsion
+2 / 2019,2019-01-16,Thành phố Hà Nội,,,Others,,elephant ivory,3.1 kg,offline,Trading
+2 / 2019,2018-10-01,Thành phố Hồ Chí Minh,,,pangolin,1,,,offline,Trading
+2 / 2019,2019-02-06,Thành phố Hà Nội,,,pangolin,1,,,offline,Trading
+2 / 2019,2019-01-31,Tỉnh Nam Định,,,Amblonyx cinerea,10,,,offline,Storing
+2 / 2019,2017-04-01,Tỉnh Thái Bình,,,Others,,rhino horn,35 kg,offline,Storing
+2 / 2019,2019-06-07,Tỉnh Phú Quốc,,,green sa turtles,,,,offline,Storing
+2 / 2019,2018-04-17,Tỉnh Hà Nội,,,Manis Javanica,88,,,offline,Storing
+2 / 2019,2018-04-17,Tỉnh Hà Nội,,,Helarctos malayanus,44,bear paw,,offline,Storing
+2 / 2019,2019-05-23,Tỉnh Thanh Hóa,Huyện Quảng Xương,,pangolin,24,,,offline,Storing
+2 / 2019,2019-05-23,Tỉnh Thanh Hóa,Huyện Quảng Xương,,big-head turtle,46,,,offline,Storing
+2 / 2019,2019-06-07,Tỉnh Quảng Ninh,,,pangolin,,scales,31.8 kg,offline,Trading
+2 / 2019,2019-06-24,Tỉnh Ninh Bình,Huyện Yên Mô,,pangolin,41,,,offline,Trading
+1 / 2020,2019-07-14,Thành phố Hà Nội,,,rhino,0,rhino horn,126.5 kg,offline,Trading
+1 / 2020,2019-09-30,Thành phố Hà Nội,Huyện Gia Lâm,,,,elephant ivory,204 kg,offline,Trading
+1 / 2020,2019-12-09,Thành phố Hải Phòng,,,,,pangolin scale,1547kg,offline,Trading
+1 / 2020,2019-12-09,Thành phố Hải Phòng,,,,,elephant ivory,523.5 kg,offline,Trading
+1 / 2020,2019-07-21,Tỉnh Bắc Kạn,,,deer,,meat,,,
+1 / 2020,2019-12-17,Tỉnh Bắc Kạn,,,,6,dead pangolin,,offfline,Trading
+1 / 2020,2019-09-17,Tỉnh Bình Định,,,,,elephant ivory,30,offline,Trading
+1 / 2020,2019-10-16,Tỉnh Bình Định,,,,,elephant ivory,17.6 kg,offline,Trading
+1 / 2020,2019-09-20,Tỉnh Bình Dương,Thành phố Thủ Dầu Một,Phường Phú Lợi,Pygathrix cinerea,1,dried douc langur,,offline,Trading
+1 / 2020,2019-12-23,Tỉnh Bình Dương,,,Prionailurus bengalensis,2,leopard cat trophy,,offline,Storing
+1 / 2020,2019-10-26,Tỉnh Đắk Lắk,Huyện Krông Búk,,Cervus unicolor,,meat,34 kg,offline,Trading
+1 / 2020,2019-12-02,Tỉnh Đắk Lắk,Thành phố Buôn Ma Thuột,,pagolins,,pangolin scale,20 kg ,offline,Trading
+1 / 2020,2019-09-19,Tỉnh Đồng Nai,Huyện Vĩnh Cửu,,Manis javanica,1,dead pangolin,,offline,Trading
+1 / 2020,2019-12-19,Tỉnh Đồng Nai,Thành phố Biên Hoà,,,7,dried pig-tailed macaque,,offline,Storing
+1 / 2020,2019-12-04,Tỉnh Gia Lai,Huyện Đăk Đoa,,,,meat,126 kg,offline,Storing
+1 / 2020,2019-07-30,Thành phố Hà Nội,,,,,elephant ivory,17.6 kg,offline,Storing
+1 / 2020,2019-07-29,Tỉnh Hà Tĩnh,Huyện Hương Sơn,,Manis javanica,30,pangolin,,offline,Trading
+1 / 2020,2019-11-18,Tỉnh Hà Tĩnh,,,tiger cubs,2,frozen tiger,,offline,Trading
+1 / 2020,2019-07-13,Tỉnh Lâm Đồng,Huyện Di Linh,,Manis javanica,1,pangolin,,offline,Trading
+1 / 2020,2019-06-24,Tỉnh Lâm Đồng,Thành phố Bảo Lộc,,bear,2,bear paw,,offline,Storing
+1 / 2020,2019-08-19,Tỉnh Lâm Đồng,Thành phố Bảo Lộc,,Manis javanica,1,pangolin,,offline,Storing
+1 / 2020,2019-09-17,Tỉnh Lâm Đồng,Huyện Lâm Hà,,langur,,frozen douc langur,200 gr,offline,Consumpsion
+1 / 2020,2019-10-04,Tỉnh Lâm Đồng,Huyện Đức Trọng,,black-shanked douc langurs,3,dried black-shanked douc langur,,offline,Storing
+1 / 2020,2019-12-20,Tỉnh Lâm Đồng,Huyện Đức Trọng,,Pygathrix nigripes,1,frozen douc langur,,offline,Storing
+1 / 2020,2019-12-18,Tỉnh Nghệ An,Huyện Thanh Chương,,macaque,4,dried pig-tailed macaque,,offline,Storing
+1 / 2020,2019-12-20,Tỉnh Nghệ An,Huyện Diễn Châu,,pangolin,8,pangolin,,offline,Storing
+1 / 2020,2019-07-11,Tỉnh Ninh Bình,Huyện Gia Viễn,,rhino,1,rhino horn,,offline,Trading
+1 / 2020,2019-11-18,Tỉnh Quảng Nam,Huyện Đại Lộc,,pangolin,5,pangolin,,offline,Trading
+1 / 2020,2019-10-23,Tỉnh Quảng Nam,,,Cuora bourreti,15,turtles trophies,,offline,Trading
+1 / 2020,2019-09-14,Tỉnh Quảng Ninh,,,Pathera tigris,1,frozen tiger,,offline,Trading
+1 / 2020,2019-11-02,Tỉnh Quảng Ninh,Thành phố Uông Bí,,turle,4,turtles trophies,,offline,Trading
+1 / 2020,2019-12-22,Tỉnh Quảng Ninh,Thành phố Hạ Long,,turtle,35,turtles trophies,,offline,Trading
+1 / 2020,2019-10-02,Tỉnh Quảng Trị,Huyện Sốp Cộp,,Manis javanica,1,pangolin,,offline,Trading
+1 / 2020,2019-10-07,Tỉnh Quảng Trị,Huyện Hướng Hoá,,Manis javanica,5,pangolin,,offline,Trading
+1 / 2020,2019-12-03,Tỉnh Quảng Nam,,,meat,,meat,30 kg,offline,Trading
+1 / 2020,2019-12-17,Tỉnh Quảng Nam,Huyện Dakrong,,Manis javanica,9,pangolin,,offline,Trading
+1 / 2020,2019-12-04,Tỉnh Sơn La,,,Asian black bear,1,frozen bear,,offline,Storing
+1 / 2020,2019-07-01,Tỉnh Tây Ninh,,,Macaca fascicularis,8,dried pig-tailed macaque,,offline,Trading
+1 / 2020,2019-07-05,Tỉnh Thanh Hoá,,,Cuora mouhotii,10,turtles trophies,,offline,Trading
+1 / 2020,2019-10-29,Tỉnh Nghệ An,Huyện Quảng Xương,,pagolin,,pangolin scale,19.7 kg,offline,Trading
+1 / 2020,2019-07-28,Thành phố Hà Nội,,,,,elephant ivory,88 kg,offline,Trading
+1 / 2020,2019-04-12,Thành phố Hà Nội,,,rhino,,rhino horn,14.6 kg,offline,Trading
+1 / 2020,2019-06-06,Thành phố Hà Nội,,,elephant,,elephant ivory,4.44 kg,online,Advertising 
+1 / 2020,2018-11,Thành phố Hà Nội,,,elephant,,elephant ivory,181 kg,offline,Storing
+1 / 2020,2017-07-17,Tỉnh Bạc Liêu,Thành phố Bạc Liêu,,,,elephant ivory,1.422 tonnes,offline,Trading
+1 / 2020,2019-01-13,Tỉnh Cao Bằng,Huyện Trùng Khánh,,,,elephant ivory,51 kg,offline,Trading
+1 / 2020,2019-03-05,Thành phố Hà Nội,Quận Hai Bà Trưng,,,1,frozen bear,,online,Trading
+1 / 2020,2019-04-10,Tỉnh Quảng Ninh,Thành phố Móng Cái,Phường Hải Hòa,,6,bear bone,,offline,Trading
+1 / 2020,2019-08-01,Thành phố Hà Nội,Quận Nam Từ Liêm,,,5,frozen tiger,,offline,Storing
+1 / 2020,2019-04-23,Tỉnh Bắc Ninh,Thành phố Từ Sơn,,,2,frozen tiger,,online,Advertising 
+1 / 2020,2018-11-12,Tỉnh Kiên Giang,Huyện đảo Phú Quốc,,,,meat,187.5 kg,offline,Storing
+1 / 2020,2018-09-17,Tỉnh Quảng Ninh,Thành phố Móng Cái,,,,pangolin scale,7 kg,offline,Storing
+1 / 2020,2019-04-16,Tỉnh Bà Rịa Vũng Tàu,Huyện Côn Đảo,,,,other body parts,85.4 kg,offline,Storing
+1 / 2020,2019-07-24,Thành phố Hà Nội,Quận Long Biên,,Chelonia mydas,12,turtles trophies,,offline,Trading
+1 / 2020,2019-08-02,Tỉnh Nghệ An,Huyện Quỳ Châu,,Platysternon megacephalum,10,stuffed marine turtle,,offline,Trading
+1 / 2020,2018-11-08,Tỉnh Đồng Nai,,Phường Tân Phú,Macaca leonina,4,meat,3 kg,offline,Trading
+1 / 2021,2020-09-25,Thành phố Hồ Chí Minh,Quận Phú Nhuận,,tiger,,tiger head,1,online,Storing
+1 / 2021,2020-09-25,Thành phố Hồ Chí Minh,Quận Phú Nhuận,,frozen tiger cub,1,,,online,Storing
+1 / 2021,2020-09-25,Thành phố Hồ Chí Minh,Quận Phú Nhuận,,bear,,bear head,1,online,Storing
+1 / 2021,2020-09-25,Tỉnh Nghệ An,Huyện Diễn Châu,,tiger,2,,,offline,Storing
+1 / 2021,2020-08-15,Thành phố Hà Nội,,,Ursus thibetanus,,bear paw,4,offline,Trading
+1 / 2021,2020-09-15,Tỉnh Nghệ An,Huyện Quỳnh Lưu,,Pathera tigris,2,,,offline,Trading
+1 / 2021,2020-07-21,Tỉnh Lai Châu,,,Ursus thibetanus,2,,,offline,Trading
+1 / 2021,2020-08-18,Thành phố Hồ Chí Minh,Quận 9,,Astrochelys radiata,4,,,online,Trading
+1 / 2021,2020-08-18,Thành phố Hồ Chí Minh,Quận 9,,Geochelone platynota,6,,,online,Trading
+1 / 2021,2020-08-18,Thành phố Hồ Chí Minh,Quận 9,,Geochelone elegans,12,,,online,Trading
+1 / 2021,2020-08-18,Thành phố Hồ Chí Minh,Quận 9,,Centrochelys sulcata,39,,,online,Trading
+1 / 2021,2020-08-18,Thành phố Hồ Chí Minh,Quận 9,,Stigmochelys pardalis,3,,,online,Trading
+1 / 2021,2018-07-09,Tỉnh Hưng Yên,,,Manis javanica,116,,,offline,Trading
+1 / 2021,2019-10-18,Tỉnh Quảng Nam,,,Manis javanica,5,,,offline,Trading
+1 / 2021,2019-10-18,Tỉnh Quảng Nam,,,Cuora galbinifrons,1,,,offline,Trading
+1 / 2021,2019-12-16,Thành phố Hà Nội,Quận Hai Bà Trưng,,Manis javanica,9,,,offline,Trading
+1 / 2021,2019-12-16,Thành phố Hà Nội,Quận Hai Bà Trưng,,Manis javanica,4,,,offline,Storing
+1 / 2021,2019-12-20,Tỉnh Nghệ An,Huyện Diễn Châu,,Manis javanica,8,,,offline,Trading
+1 / 2021,2020-01-12,Tỉnh Quảng Trị,Huyện Hương Hoà,,Manis javanica,5,,,offline,Trading
+1 / 2021,2020-05-08,Tỉnh Nghệ An,,,Manis javanica,9,,,offline,Trading
+1 / 2021,2017-04-27,Thành phố Hà Nội,,,Ceratotherium simum,,rhino horn,33 kg,offline,Trading
+1 / 2021,2019-09-30,Thành phố Hà Nội,Huyện Gia Lâm,,Loxodonta Africana,,elephant ivory,200.4 kg,offline,Trading
+1 / 2021,2020-03-02,Tỉnh Cần Thơ,,,rhino,,rhino horn,28.7 kg,offline,Trading
+1 / 2021,2020-03-06,Thành phố Hồ Chí Minh,Quận Tân Bình,,Ceratotherium simum,,rhino horn,6.1 kg,online,Trading
+1 / 2021,2020-03-23,Tỉnh Quảng Ninh,Thành phố Móng Cái,,rhino,,rhino horn,3.135 kg,offline,Trading
+1 / 2021,2019-09-14,Tỉnh Quảng Ninh,Thành phố Cẩm Phả,,Pathera tigris,1,,,offline,Trading
+1 / 2021,2019-09-14,Tỉnh Quảng Ninh,Thành phố Hạ Long,,tiger,,tiger skin,3,offline,Trading
+1 / 2021,2019-12-20,Tỉnh Bình Dương,Thành phố Thủ Dầu Một,Phường Phú Lợi,Pygathrix cinerea,1,,,offline,Trading
+1 / 2021,2020-03-15,Tỉnh Thanh Hoá,,,Ophiophagus hannah,1,,,offline,Trading
+1 / 2021,2019-12-22,Tỉnh Quảng Ninh,Thành phố Hạ Long,,Platysternon megacephalum,3,,,offline,Trading
+1 / 2021,2019-12-22,Tỉnh Quảng Ninh,Thành phố Hạ Long,,Cuora galbinifrons ,2,,,offline,Trading
+1 / 2021,2019-12-22,Tỉnh Quảng Ninh,Thành phố Hạ Long,,Sacalia quadriocellata,13,,,offline,Trading
+1 / 2021,2020-03-11,Thành phố Hà Nội,Quận Bắc Từ Liêm,,Cuora bourreti,3,,,offline,Trading
+1 / 2021,2020-03-11,Thành phố Hà Nội,Quận Bắc Từ Liêm,,Cuora galbinifrons,3,,,offline,Trading
+1 / 2021,2020-06-01,Tỉnh Hà Tĩnh,Huyện Can Lộc,,Cuora galbinifrons,9,,,offline,Trading
+1 / 2021,2020-06-22,Thành phố Hà Nội,Quận Hoàn Kiếm,,Cuora galbinifrons,4,,,offline,Trading
+1 / 2021,2020-06-22,Thành phố Hà Nội,Quận Hoàn Kiếm,,Manouria impressa,6,,,offline,Trading
+1 / 2021,2020-06-22,Thành phố Hà Nội,Quận Hoàn Kiếm,,Indotestudo elongata,53,,,offline,Trading
+1 / 2021,2020-06-16,Thành phố Hà Nội,Quận Hà Đông,,Nycticebus bengalensis,1,,,offline,Trading
+1 / 2021,2020-08-14,Thành phố Hà Nội,Huyện Gia Lâm,,Nycticebus bengalensis,4,,,offline,Trading
+1 / 2021,2019-09-17,Tỉnh Quảng Bình,Huyện Bố Trạch,Thị trấn Phong Nha,Naemorhedus sumatraensis,1,,,offline,Trading
+1 / 2021,2019-09-17,,,,Paguma larvata,1,,,offline,Trading
+1 / 2021,2019-09-17,,,,Paradoxurus hermaphroditus,1,,,offline,Trading
+1 / 2021,2020-08-03,Tỉnh An Giang,Huyện Tịnh Biên,,stork,15,,,offline,Hunting
+1 / 2021,2020-07-08,Tỉnh Bà Rịa - Vũng Tàu,,,Paradoxurus hermaphroditus,2,,,offline,Consumpsion
+1 / 2021,2020-09-24,Tỉnh Bắc Kạn,Huyện Ngân Sơn,,Lophura nycthemera,2,,,offline,Trading
